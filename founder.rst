@@ -1,6 +1,7 @@
 On the Founder
 ==============
 
+Nothing is as easy as it seems, nothing is as difficult as it seems.
 
 If you're not technical
 -----------------------
