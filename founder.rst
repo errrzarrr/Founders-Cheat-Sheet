@@ -40,6 +40,6 @@ Technical and not Technical
 
 Get a mentor, there are guys that can really help you out, learn who they are, approach them, shut up and listen.
 Get an accountant, a real one, not a mercenary. You will thank me later.
-Good founders are `resourcefull  <http://www.paulgraham.com/relres.html>`_ 
+Good founders are `resourceful  <http://www.paulgraham.com/relres.html>`_ 
 
 
