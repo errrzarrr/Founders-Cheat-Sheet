@@ -16,13 +16,13 @@ They're basically four options when you're building a technological project that
 
 As a general rule, investors look for companies that doesn't need investors. So shut up, build something, proof there are customers, get traction and when you can't serve all your clients ask for investments. That will assure you better terms and more freedom, because you "know" your business.
 
-You're idea is not as original as you think it is. You have to proof you're right with clients.
+You're idea is not as original as you think it is. You have to proof you're right with clients to show validating your idea.
 
 
 If you're technical
 -------------------
 
-If someone offers you a project he wants you to build for them and is not willing to pay you for it, because he wants a partner is usually a bad idea. Things get worse if that person calls himself a business person and has no experience to show he actually is.
+If someone offers you a project he wants you to build for them and is not willing to pay you for it because he wants you to be a partner is usually a bad idea. Things get worse if that person calls himself a business person and has no experience to show he actually is.
 
 It's not good idea to be chasing the last technologies, visiting all the meetups that exist and being present in every conference. You won't learn all that stuff together and that's time you can spend building something useful. 
 
