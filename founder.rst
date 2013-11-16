@@ -8,9 +8,10 @@ If you're not technical
 
 They're basically four options when you're building a technological project that makes possible for it to be created:
 
-#.You're technical enough to build the product  
-#.You will learn how to be a technical person if you're not  
-#. You have money to pay a technical person to do it for you   
+
+#. You're technical enough to build the product 
+#. You will learn how to be a technical person if you're not
+#. You have money to pay a technical person to do it for you
 #. You're best friend is a technical person (and I am not sure about this one enough)   
 
 As a general rule, investors look for companies that doesn't need investors. So shut up, build something, proof there are customers, get traction and when you can't serve all your clients ask for investments. That will assure you better terms and more freedom, because you "know" your business.
