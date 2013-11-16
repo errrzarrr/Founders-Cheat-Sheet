@@ -30,7 +30,7 @@ Make sure you have clients not that your editor, language, framework, mac or any
 
 If you don't have them, get people skill, been educated will take a longer way than knowing bash.
 
-Not been understood is as bad as writting PHP, try to speak so people can understand you. 
+Not been understood is as bad as writting bad PHP, try to speak so people can understand you. 
 
 Humility is a good trait for a cofounder, if the guy is a know it all. Dump him.
 
@@ -39,4 +39,7 @@ Technical and not Technical
 ---------------------------
 
 Get a mentor, there are guys that can really help you out, learn who they are, approach them, shut up and listen.
+Get an accountant, a real one, not a mercenary. You will thank me later.
+Good founders are `resourcefull  <http://www.paulgraham.com/relres.html>`_ 
+
 
